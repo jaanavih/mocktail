@@ -1,0 +1,171 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+
+body, h1, h2, p, ul, li, a {
+    
+    text-decoration: none;
+    list-style: none;
+}
+
+body {
+    font-family: Arial, sans-serif;
+    background-color: #bba8db;
+}
+
+header {
+    background-color: #ffae42;
+    color: #fff;
+    text-align: center;
+    padding: 2rem;
+}
+header {
+    background-image: url('header-bg.jpg'); /* Specify the path to your background image */
+    background-size: cover;
+    background-position: center;
+    color: #fff;
+    text-align: center;
+    padding: 2rem;
+    position: relative;
+}
+
+.header-content {
+    background-color: rgba(255, 174, 66, 0.7); /* Background overlay color with some transparency */
+    padding: 2rem;
+}
+
+header img1 {
+    max-width: 200px; /* Adjust the width as needed */
+    height: auto;
+    margin: 0 auto; /* Center the logo horizontally */
+    display: block;
+}
+
+header h1 {
+    font-size: 32px;
+    margin: 1rem 0;
+}
+
+header p {
+    font-size: 18px;
+}
+
+/* Rest of your existing CSS styles */
+
+header {
+    background-color: #ffae42;
+    color: #efebeb;
+    text-align: center;
+    padding: 2rem; 
+}
+
+header img {
+    max-width: 200px; /* Adjust the width as needed */
+    height: auto;
+    margin: 0 auto; /* Center the logo horizontally */
+    display: block;
+}
+
+header h1 {
+    font-size: 85px;
+    margin-top:  180px;
+    
+}
+
+header p {
+    font-size: 18px;
+}
+
+/* Rest of your existing CSS styles */
+
+
+nav {
+    background-color: #333;
+    color: #ede8e8;
+    text-align: center;
+    padding: 1rem;
+   
+}
+
+nav ul {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-bottom: 2rem;
+    position:absolute;
+    top:0;
+    width: 100%;
+    padding: 10px ;
+}
+
+nav li {
+    margin: 0 1rem;
+}
+
+nav a {
+    color: #fff;
+    font-size: 1.2rem;
+}
+
+section {
+    padding: 2rem;
+    text-align: center;
+}
+
+section h2 {
+    font-size: 24px;
+    color: #333;
+}
+
+section p {
+    font-size: 18px;
+    color: #666;
+    margin: 1rem 0;
+}
+
+img {
+    max-width: 100%;
+    height: auto;
+}
+
+footer {
+    background-color: #333;
+    color: #fff;
+    text-align: center;
+    padding: 1rem;
+}
+header {
+    background-image: url('back1.jpeg'); /* Specify the path to your background image */
+    background-size: cover;
+    background-position: center;
+    color: #fff;
+    text-align: center;
+    padding: 2rem;
+    position: relative;
+}
+
+.header-content {
+    background-color: rgba(232, 235, 189, 0); /* Background overlay color with some transparency */
+    padding: 2rem;
+}
+
+header img {
+    max-width: 100px; /* Adjust the width as needed */
+    height: auto;
+    margin: 0 auto; /* Center the logo horizontally */
+    display: block;
+}
+
+header h1 {
+    font-size: 32px;
+    margin: 1rem 0;
+}
+
+header p {
+    font-size: 18px;
+}
+
+/* Rest of your existing CSS styles */
